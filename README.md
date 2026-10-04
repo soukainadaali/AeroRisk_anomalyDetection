@@ -260,7 +260,9 @@ pip install flask flask-cors python-dotenv pymongo google-generativeai `
 
 ### 2. (Optional) Re-run the ML pipeline
 
-The trained artifacts are already in `notebooks/`. To rebuild them:
+The model files the backend needs are already in `notebooks/`, so you can skip this step if you only want to run the app. To rebuild them:
+
+> **Run notebook 03 first.** The train/val/test splits (`notebooks/outputs/X_*.csv`, `y_*.csv`, ~79 MB) are not in the repository. Notebooks 04, 05 and 06 read these files, so run `03_feature_engineering.ipynb` once to create them. It only needs `data/processed/ntsb_clean_final.csv`, which is included.
 
 ```powershell
 jupyter lab notebooks
