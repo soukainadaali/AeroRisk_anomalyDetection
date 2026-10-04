@@ -1,0 +1,41 @@
+# ── Environments & dependencies ────────────────────
+anomaly_venv/
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# ── Secrets ────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Build / IDE / OS ───────────────────────────────
+dist/
+build/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+
+# ── Raw data (huge, re-downloadable) ───────────────
+notebooks/ntsb_csv/
+*.mdb
+*.zip
+
+# ── Regenerable notebook outputs ───────────────────
+notebooks/catboost_info/
+notebooks/outputs/X_*.csv
+notebooks/outputs/y_*.csv
+*.npy
+
+# ── Models: ignore all, keep only what the backend loads ──
+*.pkl
+!notebooks/outputs/preprocessing_pipeline.pkl
+!notebooks/outputs/variance_threshold.pkl
+!notebooks/outputs/class_weights.pkl
+!notebooks/uncertainty_outputs/mapie_classifier_lac.pkl
+!notebooks/baseline_models/best_model.pkl

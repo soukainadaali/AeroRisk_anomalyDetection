@@ -1,0 +1,525 @@
+0
+homebuilt
+second_pilot
+afm_hrs_since
+elt_install
+elt_oper
+crew_tox_perf
+latlong_acq
+ev_nr_apt_loc
+wind_dir_ind
+wind_vel_ind
+gust_ind
+pilot_flying
+noaa_fog
+noaa_rain
+noaa_snow
+noaa_thunder
+adverse_weather
+poor_visibility
+high_wind
+extreme_temp
+fog_risk
+is_imc
+is_missing_rwy_len
+is_missing_rwy_width
+is_missing_pax_seats
+is_missing_crew_age
+is_missing_fuel_on_board
+is_missing_afm_hrs
+is_missing_afm_hrs_last_insp
+is_missing_acft_year
+is_missing_wind_vel_kts
+acft_category_BALL
+acft_category_GLI
+acft_category_GYRO
+acft_category_HELI
+acft_category_PLFT
+acft_category_PPAR
+acft_category_RCKT
+acft_category_ULTR
+acft_category_UNK
+acft_category_UNKNOWN
+acft_category_WSFT
+ev_season_spring
+ev_season_summer
+ev_season_winter
+light_cond_DAYL
+light_cond_DUSK
+light_cond_NBRT
+light_cond_NDRK
+light_cond_NITE
+light_cond_NR
+sky_cond_nonceil_FEW
+sky_cond_nonceil_OVCT
+sky_cond_nonceil_SCAT
+sky_cond_nonceil_UNK
+sky_cond_ceil_NONE
+sky_cond_ceil_OVC
+sky_cond_ceil_UNK
+sky_cond_ceil_VV
+wx_src_iic_WFAC
+wx_src_iic_WIT
+type_last_insp_AAIP
+type_last_insp_ANNL
+type_last_insp_COAW
+type_last_insp_COND
+type_last_insp_UNK
+crew_category_CPLT
+crew_category_DSTU
+crew_category_FENG
+crew_category_FLTI
+crew_category_KPLT
+crew_category_OTHR
+crew_category_PASS
+crew_category_PLT
+crew_category_PRPS
+med_certf_CL1
+med_certf_CL2
+med_certf_CL3
+med_certf_NONE
+med_certf_SPRT
+med_certf_UNK
+med_crtf_vldty_NONE
+med_crtf_vldty_UNK
+med_crtf_vldty_WOWL
+med_crtf_vldty_WTLS
+med_crtf_vldty_WWL
+fixed_retractable_RETR
+acft_make_grouped_AIR TRACTOR
+acft_make_grouped_AIRBUS
+acft_make_grouped_BEECH
+acft_make_grouped_BELL
+acft_make_grouped_BELLANCA
+acft_make_grouped_BOEING
+acft_make_grouped_BOMBARDIER
+acft_make_grouped_CESSNA
+acft_make_grouped_CHAMPION
+acft_make_grouped_CIRRUS
+acft_make_grouped_DE HAVILLAND
+acft_make_grouped_DIAMOND
+acft_make_grouped_EMBRAER
+acft_make_grouped_EUROCOPTER
+acft_make_grouped_HUGHES
+acft_make_grouped_LUSCOMBE
+acft_make_grouped_MAULE
+acft_make_grouped_MOONEY
+acft_make_grouped_NORTH AMERICAN
+acft_make_grouped_OTHER
+acft_make_grouped_PIPER
+acft_make_grouped_ROBINSON
+acft_make_grouped_SCHWEIZER
+acft_make_grouped_STINSON
+acft_make_grouped_VANS
+seat_occ_pic_FRT
+seat_occ_pic_LEFT
+seat_occ_pic_NONE
+seat_occ_pic_REAR
+seat_occ_pic_RGT
+seat_occ_pic_SNGL
+seat_occ_pic_UNK
+ev_state_AL
+ev_state_AR
+ev_state_AZ
+ev_state_CA
+ev_state_CB
+ev_state_CO
+ev_state_CT
+ev_state_DC
+ev_state_DE
+ev_state_FL
+ev_state_GA
+ev_state_GM
+ev_state_HI
+ev_state_IA
+ev_state_ID
+ev_state_IL
+ev_state_IN
+ev_state_KS
+ev_state_KY
+ev_state_LA
+ev_state_MA
+ev_state_MD
+ev_state_ME
+ev_state_MI
+ev_state_MN
+ev_state_MO
+ev_state_MS
+ev_state_MT
+ev_state_NC
+ev_state_ND
+ev_state_NE
+ev_state_NH
+ev_state_NJ
+ev_state_NM
+ev_state_NV
+ev_state_NY
+ev_state_OF
+ev_state_OH
+ev_state_OK
+ev_state_OR
+ev_state_PA
+ev_state_PR
+ev_state_RI
+ev_state_SC
+ev_state_SD
+ev_state_TN
+ev_state_TX
+ev_state_UT
+ev_state_VA
+ev_state_VT
+ev_state_WA
+ev_state_WI
+ev_state_WV
+ev_state_WY
+far_part_091K
+far_part_103
+far_part_107
+far_part_121
+far_part_125
+far_part_129
+far_part_133
+far_part_135
+far_part_137
+far_part_437
+far_part_ARMF
+far_part_NUSC
+far_part_NUSN
+far_part_PUBU
+far_part_UNK
+type_fly_ADRP
+type_fly_AOBV
+type_fly_ASHO
+type_fly_BANT
+type_fly_BUS
+type_fly_BUS 
+type_fly_EXEC
+type_fly_EXLD
+type_fly_FERY
+type_fly_FIRF
+type_fly_FLTS
+type_fly_GLDT
+type_fly_INST
+type_fly_OWRK
+type_fly_PERS
+type_fly_POSI
+type_fly_PUBF
+type_fly_PUBL
+type_fly_PUBS
+type_fly_PUBU
+type_fly_SKYD
+type_fly_UNK
+type_fly_UNK 
+flt_plan_filed_IFR
+flt_plan_filed_MVFR
+flt_plan_filed_NONE
+flt_plan_filed_UNK
+flt_plan_filed_VFIF
+flt_plan_filed_VFR
+flight_plan_activated_U
+flight_plan_activated_Y
+pc_profession_UNK
+pc_profession_Yes
+infl_rest_inst_U
+infl_rest_inst_Y
+dprt_pt_same_ev_S
+dprt_pt_same_ev_U
+dprt_pt_same_ev_UNKNOWN
+dprt_pt_same_ev_Y
+elt_type_C91
+elt_type_C91A
+elt_type_UNK
+available_restraint_4
+available_restraint_5
+available_restraint_L
+available_restraint_N
+available_restraint_U
+restraint_used_4
+restraint_used_5
+restraint_used_L
+restraint_used_N
+restraint_used_U
+med_crtf_limit_02 MUST WEAR CORRECTIVE LENSES
+med_crtf_limit_04 MUST WEAR LENSES FOR DISTANT - POSSESS GLASSES FOR NEAR VISION
+"med_crtf_limit_76 NOT VALID FOR ANY CLASS AFTER
+02 MUST WEAR CORRECTIVE LENSES"
+med_crtf_limit_Available Glasses for Near Vision
+med_crtf_limit_Available glasses for near vision
+med_crtf_limit_Basic Med
+med_crtf_limit_BasicMed
+med_crtf_limit_Corrective Lens
+med_crtf_limit_Corrective Lenses
+med_crtf_limit_Corrective Lenses 
+med_crtf_limit_Corrective Lenses Required
+med_crtf_limit_Corrective glasses
+med_crtf_limit_Corrective lens
+med_crtf_limit_Corrective lenses
+med_crtf_limit_Corrective lenses for near and distant vision
+med_crtf_limit_Corrective lenses for near and distant vision.
+med_crtf_limit_Corrective lenses required
+med_crtf_limit_Corrective lenses to meet vision standards at all distances
+med_crtf_limit_Corrective lenses.
+med_crtf_limit_Denied
+med_crtf_limit_English Proficient
+med_crtf_limit_Expired
+med_crtf_limit_Eye glasses
+med_crtf_limit_GLASSES
+med_crtf_limit_Glasses
+med_crtf_limit_Glasses available for near vision
+med_crtf_limit_Glasses for near vision
+med_crtf_limit_Glasses for near vision available
+med_crtf_limit_Glasses for near vision.
+med_crtf_limit_Glasses for near/intermediate vision
+med_crtf_limit_Glasses for near/intermediate vision.
+med_crtf_limit_Glasses must be worn
+med_crtf_limit_Glasses must be worn.
+med_crtf_limit_Glasses.
+med_crtf_limit_HOLDER SHALL POSSESS GLASSES FOR NEAR & INTERMEDIATE VISION
+med_crtf_limit_HOLDER SHALL POSSESS GLASSES FOR NEAR & INTERMEDIATE VISION.
+med_crtf_limit_Holder must possess glasses for near/intermediate vision.
+med_crtf_limit_Holder shall possess glasses for near & intermediate vision
+med_crtf_limit_Holder shall possess glasses for near & intermediate vision.
+med_crtf_limit_Holder shall possess glasses for near and intermediate vision
+med_crtf_limit_Holder shall possess glasses for near and intermediate vision.
+med_crtf_limit_Holder shall possess glasses for near/intermediate vision
+med_crtf_limit_Holder shall possess glasses for near/intermediate vision.
+med_crtf_limit_Holder shall possess glasses that correct for near and intermediate vision
+med_crtf_limit_Holder shall wear corrective lenses
+med_crtf_limit_MUST HAVE AVAILABLE GLASSES FOR NEAR VISION
+med_crtf_limit_MUST HAVE AVAILABLE GLASSES FOR NEAR VISION.
+"med_crtf_limit_MUST HAVE AVAILABLE GLASSES FOR NEAR VISION.
+"
+"med_crtf_limit_MUST HAVE AVAILABLE GLASSES FOR NEAR VISION.
+"
+"med_crtf_limit_MUST HAVE AVAILABLE GLASSES FOR NEAR VISION.
+NOT VALID FOR ANY CLASS AFTER"
+med_crtf_limit_MUST HAVE AVAILABLE GLASSESS FOR NEAR VISION
+med_crtf_limit_MUST HAVE GLASSES FOR NEAR VISION
+med_crtf_limit_MUST HAVE GLASSES FOR NEAR VISION.
+med_crtf_limit_MUST USE CORRECTIVE LENS(ES) TO MEET VISION STANDARDS AT ALL REQUIRED DISTA
+med_crtf_limit_MUST USE CORRECTIVE LENS(ES) TO MEET VISION STANDARDS AT ALL REQUIRED DISTANCES
+med_crtf_limit_MUST USE CORRECTIVE LENS(ES) TO MEET VISION STANDARDS AT ALL REQUIRED DISTANCES.
+med_crtf_limit_MUST USE CORRECTIVE LENSES TO MEET VISION STANDARDS AT ALL REQUIRED DISTANCES
+med_crtf_limit_MUST WEAR CORR LENSES & POSSESS GLASSES FOR NEAR & INTRM VISION
+med_crtf_limit_MUST WEAR CORR LENSES & POSSESS GLASSES FOR NEAR & INTRM VISION.
+"med_crtf_limit_MUST WEAR CORR LENSES & POSSESS GLASSES FOR NEAR & INTRM VISION.
+"
+med_crtf_limit_MUST WEAR CORR. LENSES FOR DISTANT VISION AND HAVE GLASSES FOR NEAR VISION.
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES 
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES FOR DISTANT VISION AND HAVE GLASSES FOR NEAR VISION
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES FOR DISTANT VISION AND HAVE GLASSES FOR NEAR VISION.
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES FOR NEAR AND DISTANT VISION
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES FOR NEAR AND DISTANT VISION.
+"med_crtf_limit_MUST WEAR CORRECTIVE LENSES FOR NEAR AND DISTANT VISION.
+"
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES FORNEAR AND DISTANT VISION
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES.
+"med_crtf_limit_MUST WEAR CORRECTIVE LENSES.
+"
+"med_crtf_limit_MUST WEAR CORRECTIVE LENSES.
+NOT VALID FOR ANY CLASS AFTER."
+"med_crtf_limit_MUST WEAR CORRECTIVE LENSES.
+NOT VALID FOR NIGHT FLYING OR BY COLOR SIGNAL CONTROL."
+med_crtf_limit_MUST WEAR CORRECTIVE LENSES. NOT VALID FOR ANY CLASS AFTER.
+med_crtf_limit_Must Have Available Glasses For Near Vision
+med_crtf_limit_Must Have Available Glasses for Near Vision
+med_crtf_limit_Must Use Corrective Lenses
+med_crtf_limit_Must Wear Corrective Lenses
+med_crtf_limit_Must Wear Corrective Lenses for Near and Distant Vision
+med_crtf_limit_Must Wear Corrective Lenses.
+med_crtf_limit_Must Wear Corrective lenses
+med_crtf_limit_Must Wear Glasses
+med_crtf_limit_Must Wear corrective lenses
+med_crtf_limit_Must available glasses for near vision
+med_crtf_limit_Must have available galsses for near vision
+med_crtf_limit_Must have available glasses
+med_crtf_limit_Must have available glasses for Near Vision
+med_crtf_limit_Must have available glasses for near vision
+med_crtf_limit_Must have available glasses for near vision 
+med_crtf_limit_Must have available glasses for near vision.
+med_crtf_limit_Must have available glasses for near vision. 
+med_crtf_limit_Must have available glasses for near vision. Must use hearing amplification.
+med_crtf_limit_Must have available glasses for near vision. Must wear corrective lenses.
+med_crtf_limit_Must have available glasses for near vision. Not valid for any class after.
+med_crtf_limit_Must have available glasses for near vision. Not valid for night flying or by color signal control.
+med_crtf_limit_Must have available glasses for vision.
+med_crtf_limit_Must have available lenses for near vision
+med_crtf_limit_Must have available near vision glasses
+med_crtf_limit_Must have corrective lenses
+med_crtf_limit_Must have corrective lenses.
+med_crtf_limit_Must have glasses available
+med_crtf_limit_Must have glasses available for near vision
+med_crtf_limit_Must have glasses available for near vision.
+med_crtf_limit_Must have glasses available for near vision. 
+med_crtf_limit_Must have glasses available.
+med_crtf_limit_Must have glasses for near vision
+med_crtf_limit_Must have glasses for near vision available
+med_crtf_limit_Must have glasses for near vision.
+med_crtf_limit_Must possess corrective lenses
+med_crtf_limit_Must possess glasses for near vision
+med_crtf_limit_Must use corrective lens (ea) to meet vision standards at all required distances
+med_crtf_limit_Must use corrective lens(es) to meet vision standards at all required distances
+med_crtf_limit_Must use corrective lens(es) to meet vision standards at all required distances.
+med_crtf_limit_Must use corrective lens(es) to meet vision standards at all required distances. 
+med_crtf_limit_Must use corrective lenses
+med_crtf_limit_Must use corrective lenses 
+med_crtf_limit_Must use corrective lenses to meet vision standards at all distances
+med_crtf_limit_Must use corrective lenses to meet vision standards at all distances.
+med_crtf_limit_Must use corrective lenses to meet vision standards at all required distances
+med_crtf_limit_Must use corrective lenses to meet vision standards at all required distances.
+med_crtf_limit_Must use corrective lenses to meet vision standards at all required distances. 
+med_crtf_limit_Must use corrective lenses.
+med_crtf_limit_Must use corrective lenses. 
+med_crtf_limit_Must use hearing amplification
+med_crtf_limit_Must use hearing amplification.
+med_crtf_limit_Must wear Corrective Lenses
+med_crtf_limit_Must wear Corrective lenses
+med_crtf_limit_Must wear contact lenses
+med_crtf_limit_Must wear contact lenses.
+med_crtf_limit_Must wear corr. lenses for distant vision and have glasses for near vision
+med_crtf_limit_Must wear corrective glasses
+med_crtf_limit_Must wear corrective lens
+med_crtf_limit_Must wear corrective lens(es) to meet vision standards at all required distances.
+med_crtf_limit_Must wear corrective lenses
+med_crtf_limit_Must wear corrective lenses 
+med_crtf_limit_Must wear corrective lenses & possess glasses for near and interim vision.
+med_crtf_limit_Must wear corrective lenses and possess glasses for near and interim vision.
+med_crtf_limit_Must wear corrective lenses and possess glasses for near and intermediate vision.
+med_crtf_limit_Must wear corrective lenses and possess glasses for near/intermediate vision
+med_crtf_limit_Must wear corrective lenses for distant vision and have glasses for near vision
+med_crtf_limit_Must wear corrective lenses for distant vision and have glasses for near vision.
+med_crtf_limit_Must wear corrective lenses for near and distance vision
+med_crtf_limit_Must wear corrective lenses for near and distance vision.
+med_crtf_limit_Must wear corrective lenses for near and distant vision
+med_crtf_limit_Must wear corrective lenses for near and distant vision.
+med_crtf_limit_Must wear corrective lenses for near and distant vision. 
+med_crtf_limit_Must wear corrective lenses for near vision
+med_crtf_limit_Must wear corrective lenses for vision
+med_crtf_limit_Must wear corrective lenses to meet vision standards at all distances
+med_crtf_limit_Must wear corrective lenses to meet vision standards at all required distances
+med_crtf_limit_Must wear corrective lenses to meet vision standards at all required distances.
+"med_crtf_limit_Must wear corrective lenses, posses glasses for near/intermediate vision"
+"med_crtf_limit_Must wear corrective lenses, posses glasses for near/intermediate vision."
+"med_crtf_limit_Must wear corrective lenses, possess glasses for near/intermediate vision"
+"med_crtf_limit_Must wear corrective lenses, possess glasses for near/intermediate vision."
+"med_crtf_limit_Must wear corrective lenses, possess glasses for near/intermediate vision. "
+med_crtf_limit_Must wear corrective lenses.
+med_crtf_limit_Must wear corrective lenses. 
+med_crtf_limit_Must wear corrective lenses. Must use hearing amplification.
+med_crtf_limit_Must wear corrective lenses. Not valid for any class after 04/30/2019.
+med_crtf_limit_Must wear corrective lenses. Not valid for any class after 10/31/2016.
+med_crtf_limit_Must wear corrective lenses. Not valid for any class after 10/31/2018.
+med_crtf_limit_Must wear corrective lenses. Not valid for any class after.
+med_crtf_limit_Must wear corrective lenses. Not valid for night flying or by color signal control.
+med_crtf_limit_Must wear corrective lenses. Possess glasses for near/intermediate vision.
+med_crtf_limit_Must wear glasses
+med_crtf_limit_Must wear glasses for near vision
+med_crtf_limit_Must wear glasses for near vision.
+med_crtf_limit_Must wear glasses.
+med_crtf_limit_Must wear lenses
+"med_crtf_limit_Must wear lenses for distance vision, have glasses for near vision."
+"med_crtf_limit_Must wear lenses for distance, have glasses for near vision"
+med_crtf_limit_Must wear lenses for distant and have glasses for near vision
+med_crtf_limit_Must wear lenses for distant vision.
+"med_crtf_limit_Must wear lenses for distant, have glasses for near vision"
+"med_crtf_limit_Must wear lenses for distant, have glasses for near vision."
+"med_crtf_limit_Must wear lenses for distant, have glasses for near."
+med_crtf_limit_NONE
+med_crtf_limit_NONE.
+med_crtf_limit_NOT VALID FOR ANY CLASS AFTER.
+med_crtf_limit_NOT VALID FOR NIGHT FLYING OR BY COLOR SIGNAL CONTROL.
+med_crtf_limit_Near vision corrective lenses
+med_crtf_limit_Near vision corrective lenses.
+med_crtf_limit_Near vision glasses
+med_crtf_limit_None.
+med_crtf_limit_None. 
+med_crtf_limit_Not valid for any class after 06/30/2024
+med_crtf_limit_Not valid for any class after 1/31/2019.
+med_crtf_limit_Not valid for any class after 9/30/2019
+med_crtf_limit_Not valid for any class after.
+med_crtf_limit_Not valid for any class after. Must wear corrective lenses.
+med_crtf_limit_Not valid for flights requiring color signal control during daylight hours.
+med_crtf_limit_Not valid for night flying or by color signal control
+med_crtf_limit_Not valid for night flying or by color signal control.
+med_crtf_limit_Not valid for night flying or color signal control.
+med_crtf_limit_Possess glasses for near vision
+med_crtf_limit_Prescription lenses
+med_crtf_limit_Reading glasses
+med_crtf_limit_Special Issuance
+med_crtf_limit_UNK
+med_crtf_limit_Unknown
+med_crtf_limit_Vision
+med_crtf_limit_Wear Glasses
+med_crtf_limit_Wear corrective lenses
+med_crtf_limit_Wear corrective lenses.
+med_crtf_limit_corrective lens
+med_crtf_limit_corrective lenses
+med_crtf_limit_corrective lenses for near and distant vision
+med_crtf_limit_corrective lenses for near vision
+med_crtf_limit_corrective lenses required
+med_crtf_limit_glasses
+med_crtf_limit_glasses for near vision
+med_crtf_limit_holder shall possess glasses for near/intermediate vision
+med_crtf_limit_holder shall wear corrective lenses
+med_crtf_limit_must have available glasses for near vision
+med_crtf_limit_must have glasses available for near vision
+med_crtf_limit_must have glasses for near vision
+med_crtf_limit_must use corrective lenses
+med_crtf_limit_must use corrective lenses to meet vision standards at all required distances
+med_crtf_limit_must wear corrective lens
+med_crtf_limit_must wear corrective lenses
+med_crtf_limit_must wear corrective lenses for distant vision and have glasses for near vision
+med_crtf_limit_must wear corrective lenses for near and distant vision
+med_crtf_limit_must wear corrective lenses for near and distant vision.
+med_crtf_limit_must wear glasses
+med_crtf_limit_must wear glasses for near vision
+med_crtf_limit_none
+med_crtf_limit_wear corrective lenses
+crew_sex
+noaa_temp_c
+noaa_temp_max_c
+noaa_temp_min_c
+noaa_wind_knots
+noaa_maxwind_knots
+noaa_gust_knots
+noaa_slp_hpa
+noaa_visib_km
+noaa_prcp_mm
+noaa_dist_km
+gust_excess
+wx_temp_c
+wx_dew_pt_c
+wind_dir_deg
+wind_vel_kts
+gust_kts
+vis_km
+sky_ceil_ht_m
+sky_nonceil_ht_m
+altimeter_hpa
+td_spread
+apt_elev_m
+apt_dist_km
+wx_obs_elev_m
+wx_obs_dist_km
+rwy_width_m
+rwy_len_m_log
+num_eng
+fc_seats
+pax_seats
+total_seats
+afm_hrs_log
+afm_hrs_last_insp
+cert_max_gr_wt_kg_log
+fuel_on_board_l_log
+acft_age
+maintenance_ratio
+crew_age
+hour_sin
+hour_cos
+dow_sin
+dow_cos
+month_sin
+month_cos
+ev_year
+wx_obs_time
